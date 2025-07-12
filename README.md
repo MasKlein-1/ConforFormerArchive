@@ -15,7 +15,8 @@ conda create env -f ConforFormer.yml
   2. The full directory to re-create the classificaiton data
   3. Data generated for the embedding analysis
   4. Archive of model params from pre-training
-
+  5. Tensorboard logs generated during pre-training and fine-tuning
+     
 # What is not here and needs to be downloaded
 UniMol dataset
 OMol dataset
